@@ -1,0 +1,684 @@
+{
+  "settings": {
+    "currentPage": "school.html",
+    "versionFirst": "2.8.7",
+    "versionPublish": "2.8.7",
+    "name": "AnnelienSnyers",
+    "favicon": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74511539-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "path": "file:///Users/Anerin/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2016-02-10_162113",
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/Anerin/Desktop/school/2016%20-%20LUCA/Porto/2maart"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_anchor": "header1-8",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-3014web-2048x1365-13.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "NL Annelien Snyers",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"school.html\" data-toolbar=\"-mbrBtnMove\">school</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"extra.html\" data-toolbar=\"-mbrBtnMove\">extra</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"links.html\" data-toolbar=\"-mbrBtnMove\">links</a>"
+        }
+      ]
+    },
+    "school.html": {
+      "settings": {
+        "title": "School",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_name": "gallery1",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00455web-3102x2063-88-2000x1330-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00455web-3102x2063-88.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00452-web-3344x2224-89-2000x1330-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00452-web-3344x2224-89.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1347web-3034x2022-9-2000x1333-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1347web-3034x2022-9.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/albinoatlasweb-1225x708-57-1225x708-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albinoatlasweb-1225x708-57.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/possfut-web-2649x1949-15-2000x1471-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/possfut-web-2649x1949-15.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-1491-web-2448x2448-66-2000x2000-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1491-web-2448x2448-66.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00446-web-3344x2224-72-2000x1330-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00446-web-3344x2224-72.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/wundervoorpaginaweb-1063x1484-8-1063x1484-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wundervoorpaginaweb-1063x1484-8.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/sensatieballonweb-2251x3057-81-2000x2716-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sensatieballonweb-2251x3057-81.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/conspiracyweb-1935x2694-9-1935x2694-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/conspiracyweb-1935x2694-9.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/wunderbroerzusweb-2229x1681-60-2000x1508-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wunderbroerzusweb-2229x1681-60.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/conceptweb-1427x1172-83-1427x1172-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/conceptweb-1427x1172-83.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/webbbbb-928x650-77-928x650-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/webbbbb-928x650-77.jpg",
+                "active": false
+              }
+            ],
+            "bgColor": "#000000",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-9",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11",
+          "_params": {
+            "color": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Annelien Snyers</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"school.html\">SCHOOL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"extra.html\">EXTRA</a></li>",
+          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"extra.html\" data-toolbar=\"-mbrBtnMove\">EXTRA<br></a></li>"
+        }
+      ]
+    },
+    "extra.html": {
+      "settings": {
+        "title": "extra"
+      },
+      "components": [
+        {
+          "_name": "gallery1",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/extra0web-1600x1600-49-1600x1600-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/extra0web-1600x1600-49.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/extra2web-2000x2000-20-2000x2000-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/extra2web-2000x2000-20.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/extra5web-2000x2000-95-2000x2000-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/extra5web-2000x2000-95.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/extra4web-4667x4667-50-2000x2000-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/extra4web-4667x4667-50.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/extratinydoglinesweb-598x598-49-598x598-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/extratinydoglinesweb-598x598-49.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/voor-en-tijdens-12web-1783x1197-78-1783x1197-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/voor-en-tijdens-12web-1783x1197-78.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/tot16juni2015-7-web-1325x1864-57-1325x1864-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tot16juni2015-7-web-1325x1864-57.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/tot16juni2015-17-web-1321x1884-48-1321x1884-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tot16juni2015-17-web-1321x1884-48.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/scan-2-franceweb-1760x1192-27-1760x1192-23.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-2-franceweb-1760x1192-27.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/rs-7web-5000x1518-16-2000x607-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rs-7web-5000x1518-16.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/beeldcultuurweb-1574x2102-63-1574x2102-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beeldcultuurweb-1574x2102-63.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/erasmus1516-10-web-1199x1784-77-1199x1784-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/erasmus1516-10-web-1199x1784-77.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/zwart-11web-1784x1204-35-1784x1204-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zwart-11web-1784x1204-35.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/erasmus1516-8-web-1785x1190-1-1785x1190-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/erasmus1516-8-web-1785x1190-1.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/zwart-10web-1199x1768-35-1199x1768-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zwart-10web-1199x1768-35.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/erasmus1516-31-web-1785x1197-43-1785x1197-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/erasmus1516-31-web-1785x1197-43.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#000000",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-10",
+          "articleLayout": false
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11",
+          "_params": {
+            "color": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Annelien Snyers</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"school.html\">SCHOOL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"extra.html\">EXTRA</a></li>",
+          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"extra.html\" data-toolbar=\"-mbrBtnMove\">EXTRA<br></a></li>"
+        }
+      ]
+    },
+    "links.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-10",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "",
+          "text": "Portfolio's of fellow LUCA students",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-11",
+          "_params": {
+            "color": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Annelien Snyers</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"school.html\">SCHOOL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"extra.html\">EXTRA</a></li>",
+          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"extra.html\" data-toolbar=\"-mbrBtnMove\">EXTRA<br></a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#fac51c"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-8",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/kapinga5-300x484-59.jpg",
+              "link": "https://c06cac074ffa29177bdd27cfc445b64a043c21d0.googledrive.com/host/0B040JABH-mKodDFUTzI5elFsMHc/",
+              "alt": "",
+              "title": "Kapinga Mueal Kabeya",
+              "linkInNewWindow": "on"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Kapinga Muela Kabeya",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Photography student",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://c06cac074ffa29177bdd27cfc445b64a043c21d0.googledrive.com/host/0B040JABH-mKodDFUTzI5elFsMHc/\" data-toolbar=\"-mbrBtnMove\">KAPINGA MUELA KABEYA</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-03-01-om-17-420x323-37.png",
+              "link": "https://7ddc32286ed4dbe94020fe1c52887d7264bd348e.googledrive.com/host/0B2LrTCMkglgLYmo2d3RWQnQzbms/page1.html",
+              "alt": "",
+              "title": "Margot Vanhassel",
+              "linkInNewWindow": "on"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Graphic Design student</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://7ddc32286ed4dbe94020fe1c52887d7264bd348e.googledrive.com/host/0B2LrTCMkglgLYmo2d3RWQnQzbms/page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Margot Vanhassel</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-11",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-03-01-om-17-354x509-66.png",
+              "link": "https://c27b020f9c92473c2396913c78fe0442db08f7c6.googledrive.com/host/0B_Vg-L0_XECpMjhJY3ZmUlBfOXc/",
+              "alt": "",
+              "title": "Mayle Vandeweyer",
+              "linkInNewWindow": "on"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>student Graphic Design</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://c27b020f9c92473c2396913c78fe0442db08f7c6.googledrive.com/host/0B_Vg-L0_XECpMjhJY3ZmUlBfOXc/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Mayke Vandeweyer</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-12",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-03-01-om-17-537x360-8.png",
+              "link": "",
+              "alt": "",
+              "title": "Jolien Wallenus",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Graphic Design student</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://8ee5a9a313e600f21ad776bea48288fda7037fe2.googledrive.com/host/0B2DAvdev2nT2UUxyZjQyX3RVWkk/page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Jolien Wallenus</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-13",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Graphic Design student</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://f8af3edb095e7d1728f43d59737478e37c6bf5b6.googledrive.com/host/0By2WF0b15Z8oWE5uZmZIWW9nQ2M/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Charlotte thomas</a>"
+        }
+      ]
+    }
+  }
+}
