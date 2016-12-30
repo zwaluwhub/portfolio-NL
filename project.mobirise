@@ -188,6 +188,9 @@
         {
           "_name": "gallery1",
           "_params": {
+            "fullWidth": true,
+            "noGutter": false,
+            "bgColor": "#000000",
             "images": [
               {
                 "thumb": "@PROJECT_PATH@/assets/images/extra0web-1600x1600-49-1600x1600-57.jpg",
@@ -269,10 +272,7 @@
                 "image": "@PROJECT_PATH@/assets/images/erasmus1516-31-web-1785x1197-43.jpg",
                 "active": true
               }
-            ],
-            "bgColor": "#000000",
-            "fullWidth": true,
-            "noGutter": false
+            ]
           },
           "_anchor": "gallery1-10",
           "articleLayout": false
@@ -293,13 +293,13 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-11",
           "_params": {
-            "color": "#000000",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000"
           },
           "logo": {
             "image": {
@@ -326,23 +326,23 @@
           "_name": "header2",
           "_anchor": "header2-10",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "images/bg2.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "left",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": false,
             "showText": true,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "",
           "text": "Portfolio's of fellow LUCA students",
@@ -364,13 +364,13 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-11",
           "_params": {
-            "color": "#000000",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": false,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#000000"
           },
           "logo": {
             "image": {
@@ -402,23 +402,23 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-8",
           "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": false,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -463,23 +463,23 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-9",
           "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#cccccc",
-            "bgColorRadio": true,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": false,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -524,23 +524,23 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-11",
           "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": false,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -582,23 +582,23 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-12",
           "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#cccccc",
-            "bgColorRadio": true,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": false,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -640,23 +640,23 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-13",
           "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#f97352",
-            "bgColorRadio": true,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": false,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
